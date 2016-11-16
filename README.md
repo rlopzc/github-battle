@@ -1,7 +1,7 @@
-# github-battle
+# Github Battle
 Project developed in React
 
 ## Instructions
 - `$ npm install`
 - `$ npm run start`
-- Go to `localhost:8080`
+- Go to localhost:8080
